@@ -35,13 +35,13 @@
         <a class="nav-link" href="career.php">career</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="service.php">Service</a>
+        <a class="nav-link" href="service.php">Services</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="about.php">about</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="contact.php" >Contact	</a>
+        <a class="nav-link " href="contact.php" >Contact</a>
       </li>
     </ul>
     
